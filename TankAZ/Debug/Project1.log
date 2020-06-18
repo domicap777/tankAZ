@@ -1,0 +1,40 @@
+﻿  Bomba.cpp
+  Czolg.cpp
+c:\users\caput\desktop\pk4 projekt\project1\project1\czolg.cpp(61): warning C4244: "argument": konwersja z "T" do "const unsigned int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\caput\desktop\pk4 projekt\project1\project1\czolg.cpp(63): warning C4244: "argument": konwersja z "T" do "const unsigned int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  gra.cpp
+c:\users\caput\desktop\pk4 projekt\project1\project1\gra.cpp(31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\caput\desktop\pk4 projekt\project1\project1\gra.cpp(42): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\caput\desktop\pk4 projekt\project1\project1\gra.cpp(56): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\caput\desktop\pk4 projekt\project1\project1\gra.cpp(103): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\caput\desktop\pk4 projekt\project1\project1\gra.cpp(138): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\caput\desktop\pk4 projekt\project1\project1\gra.cpp(141): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\caput\desktop\pk4 projekt\project1\project1\gra.cpp(144): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\caput\desktop\pk4 projekt\project1\project1\gra.cpp(148): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\caput\desktop\pk4 projekt\project1\project1\gra.cpp(186): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+c:\users\caput\desktop\pk4 projekt\project1\project1\gra.cpp(192): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+c:\users\caput\desktop\pk4 projekt\project1\project1\gra.cpp(215): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\caput\desktop\pk4 projekt\project1\project1\gra.cpp(217): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\caput\desktop\pk4 projekt\project1\project1\gra.cpp(219): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\caput\desktop\pk4 projekt\project1\project1\gra.cpp(241): warning C4244: "=": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\caput\desktop\pk4 projekt\project1\project1\gra.cpp(242): warning C4244: "=": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\caput\desktop\pk4 projekt\project1\project1\gra.cpp(248): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Źródło.cpp
+  Generowanie kodu...
+  Project1.vcxproj -> C:\Users\caput\Desktop\PK4 projekt\Project1\Debug\Project1.exe

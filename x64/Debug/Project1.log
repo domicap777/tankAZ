@@ -1,0 +1,15 @@
+﻿  GameController.cpp
+c:\users\dominik\desktop\nowy folder\gra-w-czolgi-master\project1\project1\gamecontroller.cpp(102): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\dominik\desktop\nowy folder\gra-w-czolgi-master\project1\project1\gamecontroller.cpp(185): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+c:\users\dominik\desktop\nowy folder\gra-w-czolgi-master\project1\project1\gamecontroller.cpp(191): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+c:\users\dominik\desktop\nowy folder\gra-w-czolgi-master\project1\project1\gamecontroller.cpp(240): warning C4244: "=": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\dominik\desktop\nowy folder\gra-w-czolgi-master\project1\project1\gamecontroller.cpp(241): warning C4244: "=": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  Project1.vcxproj -> C:\Users\Dominik\Desktop\Nowy folder\gra-w-czolgi-master\Project1\x64\Debug\Project1.exe
